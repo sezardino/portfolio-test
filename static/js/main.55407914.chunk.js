@@ -617,9 +617,9 @@
 								null,
 								i.a.createElement('source', {
 									media: '(min-width: 768px)',
-									srcSet: 'assets/img/hero_desktop.png',
+									srcSet: './assets/img/hero_desktop.png',
 								}),
-								i.a.createElement('img', {src: 'assets/img/hero.png', alt: ''})
+								i.a.createElement('img', {src: './assets/img/hero.png', alt: ''})
 							)
 						),
 						i.a.createElement(
